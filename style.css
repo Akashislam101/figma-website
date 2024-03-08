@@ -1,0 +1,173 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+/* nav-bar-css */
+
+.nav-img {
+    width: 200px;
+}
+
+.nav-btn {
+    text-decoration: none;
+    background-color: #21B573;
+    padding: 12px 28px;
+    border-radius: 33px;
+    color: white;
+}
+
+.full-header {
+    background-color: #F0FFF0;
+    height: 580px;
+    width: 100%;
+}
+
+.nav-li {
+    margin-left: 20px;
+}
+
+/* banner-section-css */
+
+.banner-p {
+    color: #FD511A;
+}
+
+.banner-h1 {
+    font-weight: bolder;
+    line-height: 70px;
+}
+
+.banner-span {
+    color: #21B573;
+}
+
+.banner-p2 {
+    line-height: 36px;
+    color: #6C6B6B;
+    margin-bottom: 35px;
+}
+
+/* card-list-section-css */
+
+.card-list {
+    background-color: #F8FFFB;
+    height: 270px;
+    border: none;
+    transition: .5s;
+}
+
+.card-list-img {
+    width: 66px;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.card-list-p {
+    font-size: 24px;
+    color: #413960;
+    font-weight: 500;
+    line-height: 34px;
+    text-align: center;
+}
+
+.card-list-p2 {
+    color: #585859;
+    text-align: center;
+    line-height: 10px;
+}
+
+.card-list-shadow {
+    background-color: #FFFFFF;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+
+.card-list:hover {
+    background-color: #FFFFFF;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+
+
+/* courses-card section */
+
+.card-courses {
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    border-radius: 15px;
+    width: 93%;
+}
+
+.courses-card-h4 {
+    color: #413960;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.courses-card-p {
+    color: #585859;
+}
+
+.courses-btn {
+    background-color: #21B573;
+    color: white;
+    border-radius: 30px;
+    padding: 7px 15px;
+}
+
+.courses-hed {
+    text-align: center;
+    color: #413960;
+    font-weight: 700;
+    font-size: 36px;
+}
+
+.courses-card-sm {
+    color: #6C6B6B;
+}
+
+.tast-h4 {
+    color: black;
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.test-p {
+    width: 620px;
+}
+
+.footer-p {
+    width: 380px;
+    font-weight: 300;
+    line-height: 30px;
+}
+
+.footer-section {
+    background-color: #282531;
+    color: white;
+}
+
+.foot-li {
+    font-weight: bold !important;
+    position: relative;
+}
+
+.footer-ul {
+    list-style: none;
+}
+
+.footer-li {
+    font-weight: 300;
+    line-height: 30px;
+}
+
+.footer-end-p {
+    text-align: center;
+    color: #CDCDCD;
+}
+
+.footer-line {
+    width: 60px;
+    height: 6px;
+    background-color: red;
+    position: absolute;
+}
